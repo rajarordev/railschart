@@ -1,0 +1,13 @@
+<div id="chartContainer3DPieXML">FusionCharts will load here!</div>
+<hr/>
+<script type="text/javascript"><!--
+
+  var myChart = new FusionCharts( "<%= asset_path 'FusionCharts/Pie3D.swf' %>",
+                 "myChartId", "600", "750", 0, 1 );
+  myChart.setXMLUrl("<%= asset_path 'FusionCharts/Fusion3DPieChart.xml' %>");
+  myChart.render("chartContainer3DPieXML");
+
+// -->
+</script>
+
+

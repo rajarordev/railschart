@@ -1,0 +1,6 @@
+<div id="chartdiv2" align="center">Stacked</div>
+<script type="text/javascript">
+var myChart2 = new FusionCharts("<%= asset_path 'FusionCharts/Scatter.swf' %>", "myChartId2", "850", "750", 0, 1);
+myChart2.setDataURL("<%= asset_path 'FusionCharts/ScatterData.xml' %>");
+myChart2.render("chartdiv2");
+</script>

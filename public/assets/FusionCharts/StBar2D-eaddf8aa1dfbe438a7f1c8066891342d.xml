@@ -1,0 +1,15 @@
+<graph xAxisName='' yAxisName='' yAxisMaxValue='100' caption='Stacked column chart'  numberSuffix='%' stack100Percent = "1"  showValues='0'>
+<categories>
+<category name='' />
+</categories>
+<dataset seriesName='Employed' color='AFD8F8'>
+<set value='30' />
+</dataset>
+<dataset seriesName='Additional Degrees'  color='F6BD0F'>
+<set value='20' />
+</dataset>
+<dataset seriesName='Unemployed' color='8BBA00'>
+<set value='50' />
+</dataset>
+</graph>
+

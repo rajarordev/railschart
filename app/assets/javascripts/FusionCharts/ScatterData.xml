@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<chart palette="0" caption="Georgetown University: 2011 - 12 Admissions Outcomes - (Fusion Chart)" subcaption="" yAxisName="LSDAS GPA" xAxisName="LSAT" showLegend="1" showNames="1" xAxisMaxValue="180" xAxisMinValue="140" adjustDiv="0" yAxisValueDecimals="1" decimals="1" forcedecimals="1" yAxisMaxValue="4.4" yAxisMinValue="2.0" numDivLines="22">
+
+<categories verticalLineThickness="1">
+	<category name="140" x="140" showVerticalLine="1"/>
+	<category name="142" x="142" showVerticalLine="1"/>
+	<category name="144" x="144" showVerticalLine="1"/>
+	<category name="146" x="146" showVerticalLine="1"/>
+	<category name="148" x="148" showVerticalLine="1"/>
+	<category name="150" x="150" showVerticalLine="1"/>
+	<category name="152" x="152" showVerticalLine="1"/>
+	<category name="154" x="154" showVerticalLine="1"/>
+	<category name="156" x="156" showVerticalLine="1"/>
+	<category name="158" x="158" showVerticalLine="1"/>
+	<category name="160" x="160" showVerticalLine="1"/>
+	<category name="162" x="162" showVerticalLine="1"/>
+	<category name="164" x="164" showVerticalLine="1"/>
+	<category name="166" x="166" showVerticalLine="1"/>
+	<category name="168" x="168" showVerticalLine="1"/>
+	<category name="170" x="170" showVerticalLine="1"/>
+	<category name="172" x="172" showVerticalLine="1"/>
+	<category name="174" x="174" showVerticalLine="1"/>
+	<category name="176" x="176" showVerticalLine="1"/>
+	<category name="178" x="178" showVerticalLine="1"/>
+	<category name="180" x="180" showVerticalLine="1"/>
+</categories>
+
+<dataSet id="DS1" seriesName="Accepted" color="008000" showPlotBorder="1" anchorRadius="4" anchorBgColor="008000">
+	
+<set x="169" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/luxxe/jd" tooltext="luxxe:  169 LSAT, 4 GPA"/>
+<set x="170" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/alexdough/jd" tooltext="alexdough:  170 LSAT, 3.76 GPA"/>
+<set x="169" y="3.68" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jbapowell/jd" tooltext="jbapowell:  169 LSAT, 3.68 GPA"/>
+<set x="173" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Hawklaw3/jd" tooltext="Hawklaw3:  173 LSAT, 3.85 GPA"/>
+<set x="167" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/brookedonphonics/jd" tooltext="brookedonphonics:  167 LSAT, 3.79 GPA"/>
+<set x="174" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Iseeatree/jd" tooltext="Iseeatree:  174 LSAT, 3.5 GPA"/>
+<set x="171" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/daydreamer/jd" tooltext="daydreamer:  171 LSAT, 3.77 GPA"/>
+<set x="169" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MyWayTilPayday/jd" tooltext="MyWayTilPayday (URM):  169 LSAT, 3.55 GPA"/>
+<set x="173" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/WilliamVargas2012/jd" tooltext="WilliamVargas2012:  173 LSAT, 3.5 GPA"/>
+<set x="171" y="3.42" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/biocheme/jd" tooltext="biocheme:  171 LSAT, 3.42 GPA"/>
+<set x="173" y="3.23" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/emkay625/jd" tooltext="emkay625:  173 LSAT, 3.23 GPA"/>
+<set x="170" y="3.52" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/killingly/jd" tooltext="killingly:  170 LSAT, 3.52 GPA"/>
+<set x="178" y="4.1" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/qwertie/jd" tooltext="qwertie:  178 LSAT, 4.1 GPA"/>
+<set x="178" y="3.59" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/aekea/jd" tooltext="aekea:  178 LSAT, 3.59 GPA"/>
+<set x="173" y="3.93" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tamereth/jd" tooltext="tamereth:  173 LSAT, 3.93 GPA"/>
+<set x="176" y="2.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/whimsical/jd" tooltext="whimsical:  176 LSAT, 2.8 GPA"/>
+<set x="169" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/iphone7/jd" tooltext="iphone7:  169 LSAT, 3.87 GPA"/>
+<set x="167" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/creigar/jd" tooltext="creigar:  167 LSAT, 3.86 GPA"/>
+<set x="170" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sirsnuffington/jd" tooltext="sirsnuffington:  170 LSAT, 3.86 GPA"/>
+<set x="172" y="3.58" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/roserdozer/jd" tooltext="roserdozer:  172 LSAT, 3.58 GPA"/>
+<set x="169" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/klmhs1204/jd" tooltext="klmhs1204:  169 LSAT, 3.84 GPA"/>
+<set x="167" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ketchup/jd" tooltext="ketchup:  167 LSAT, 3.9 GPA"/>
+<set x="163" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Itbgnn1985/jd" tooltext="Itbgnn1985 (URM):  163 LSAT, 3.3 GPA"/>
+<set x="171" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/suit/jd" tooltext="suit:  171 LSAT, 3.55 GPA"/>
+<set x="171" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/xsybarite/jd" tooltext="xsybarite:  171 LSAT, 3.6 GPA"/>
+<set x="166" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mermaid9052/jd" tooltext="mermaid9052 (URM):  166 LSAT, 3.75 GPA"/>
+<set x="171" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sach1282/jd" tooltext="sach1282:  171 LSAT, 3.69 GPA"/>
+<set x="169" y="3.97" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lionLawyer/jd" tooltext="lionLawyer:  169 LSAT, 3.97 GPA"/>
+<set x="175" y="3.43" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jazten14/jd" tooltext="jazten14:  175 LSAT, 3.43 GPA"/>
+<set x="169" y="3.43" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/aortiz6290/jd" tooltext="aortiz6290 (URM):  169 LSAT, 3.43 GPA"/>
+<set x="170" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Jaz/jd" tooltext="Jaz:  170 LSAT, 3.6 GPA"/>
+<set x="175" y="3.2" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/brizzlebrazzle/jd" tooltext="brizzlebrazzle:  175 LSAT, 3.2 GPA"/>
+<set x="168" y="3.81" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sumner/jd" tooltext="sumner:  168 LSAT, 3.81 GPA"/>
+<set x="172" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/heyksull/jd" tooltext="heyksull:  172 LSAT, 3.67 GPA"/>
+<set x="164" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ChicagoWire/jd" tooltext="ChicagoWire:  164 LSAT, 3.75 GPA"/>
+<set x="170" y="3.56" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jmets890/jd" tooltext="jmets890:  170 LSAT, 3.56 GPA"/>
+<set x="170" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/rewritten/jd" tooltext="rewritten:  170 LSAT, 3.7 GPA"/>
+<set x="171" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jwoww/jd" tooltext="jwoww:  171 LSAT, 3.82 GPA"/>
+<set x="163" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/darkgrayclouds/jd" tooltext="darkgrayclouds:  163 LSAT, 3.9 GPA"/>
+<set x="170" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ofajit/jd" tooltext="ofajit:  170 LSAT, 3.55 GPA"/>
+<set x="170" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Sonic2day/jd" tooltext="Sonic2day:  170 LSAT, 3.7 GPA"/>
+<set x="169" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pdftlvson/jd" tooltext="pdftlvson:  169 LSAT, 4 GPA"/>
+<set x="171" y="3.52" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/foxylaxy/jd" tooltext="foxylaxy:  171 LSAT, 3.52 GPA"/>
+<set x="168" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Mercurial/jd" tooltext="Mercurial:  168 LSAT, 3.8 GPA"/>
+<set x="180" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/setteesurvivor/jd" tooltext="setteesurvivor:  180 LSAT, 3.88 GPA"/>
+<set x="170" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/46nyc/jd" tooltext="46nyc:  170 LSAT, 3.8 GPA"/>
+<set x="173" y="3.72" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/woobinator/jd" tooltext="woobinator:  173 LSAT, 3.72 GPA"/>
+<set x="170" y="3.74" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ycscwc/jd" tooltext="ycscwc:  170 LSAT, 3.74 GPA"/>
+<set x="169" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lionelmessi/jd" tooltext="lionelmessi:  169 LSAT, 3.78 GPA"/>
+<set x="170" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cpsweet16/jd" tooltext="cpsweet16:  170 LSAT, 3.8 GPA"/>
+<set x="170" y="3.56" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/rutlemaniac/jd" tooltext="rutlemaniac:  170 LSAT, 3.56 GPA"/>
+<set x="173" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LysandersLament/jd" tooltext="LysandersLament:  173 LSAT, 3.91 GPA"/>
+<set x="171" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/baconpuffs/jd" tooltext="baconpuffs:  171 LSAT, 3.6 GPA"/>
+<set x="173" y="3.26" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/HuskyLover/jd" tooltext="HuskyLover:  173 LSAT, 3.26 GPA"/>
+<set x="175" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ringo/jd" tooltext="ringo:  175 LSAT, 3.5 GPA"/>
+<set x="173" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mxmm523/jd" tooltext="mxmm523:  173 LSAT, 3.8 GPA"/>
+<set x="167" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/navylaw/jd" tooltext="navylaw:  167 LSAT, 3.7 GPA"/>
+<set x="172" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/uscajo/jd" tooltext="uscajo:  172 LSAT, 3.75 GPA"/>
+<set x="168" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/interested2/jd" tooltext="interested2:  168 LSAT, 3.86 GPA"/>
+<set x="166" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Mitterrand/jd" tooltext="Mitterrand (URM):  166 LSAT, 3.8 GPA"/>
+<set x="172" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mturner1117/jd" tooltext="mturner1117:  172 LSAT, 3.9 GPA"/>
+<set x="167" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sandwiches5000/jd" tooltext="sandwiches5000:  167 LSAT, 3.8 GPA"/>
+<set x="173" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/awesomeness/jd" tooltext="awesomeness:  173 LSAT, 3.7 GPA"/>
+<set x="172" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/legallyblonde340/jd" tooltext="legallyblonde340:  172 LSAT, 3.65 GPA"/>
+<set x="169" y="3.58" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dukesfo/jd" tooltext="dukesfo:  169 LSAT, 3.58 GPA"/>
+<set x="169" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Camelasky/jd" tooltext="Camelasky:  169 LSAT, 3.75 GPA"/>
+<set x="164" y="3.97" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thelawschoolproject/jd" tooltext="thelawschoolproject (URM):  164 LSAT, 3.97 GPA"/>
+<set x="176" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thelawsdelay/jd" tooltext="thelawsdelay:  176 LSAT, 3.55 GPA"/>
+<set x="171" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/USCTrojan09/jd" tooltext="USCTrojan09:  171 LSAT, 3.91 GPA"/>
+<set x="171" y="3.58" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/androidhu/jd" tooltext="androidhu:  171 LSAT, 3.58 GPA"/>
+<set x="170" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/malreynolds/jd" tooltext="malreynolds:  170 LSAT, 3.9 GPA"/>
+<set x="174" y="3.83" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/zeehar/jd" tooltext="zeehar:  174 LSAT, 3.83 GPA"/>
+<set x="177" y="3.2" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tim0thy222/jd" tooltext="tim0thy222:  177 LSAT, 3.2 GPA"/>
+<set x="173" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/flatoct/jd" tooltext="flatoct:  173 LSAT, 3.69 GPA"/>
+<set x="175" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dk2451/jd" tooltext="dk2451:  175 LSAT, 3.6 GPA"/>
+<set x="171" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bbalcrzy23/jd" tooltext="bbalcrzy23:  171 LSAT, 3.3 GPA"/>
+<set x="169" y="3.71" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/foxwithmustache/jd" tooltext="foxwithmustache:  169 LSAT, 3.71 GPA"/>
+<set x="166" y="3.99" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thecactus/jd" tooltext="thecactus:  166 LSAT, 3.99 GPA"/>
+<set x="168" y="4.04" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Marlin88/jd" tooltext="Marlin88:  168 LSAT, 4.04 GPA"/>
+<set x="167" y="4.01" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pandas/jd" tooltext="pandas:  167 LSAT, 4.01 GPA"/>
+<set x="177" y="3.66" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/drizzt656/jd" tooltext="drizzt656:  177 LSAT, 3.66 GPA"/>
+<set x="172" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kayp/jd" tooltext="kayp:  172 LSAT, 3.67 GPA"/>
+<set x="170" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/RSE67/jd" tooltext="RSE67:  170 LSAT, 3.8 GPA"/>
+<set x="167" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jdsurf/jd" tooltext="jdsurf:  167 LSAT, 3.82 GPA"/>
+<set x="171" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jpal13/jd" tooltext="jpal13:  171 LSAT, 3.77 GPA"/>
+<set x="173" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/curiouscat/jd" tooltext="curiouscat:  173 LSAT, 3.98 GPA"/>
+<set x="173" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/glinda/jd" tooltext="glinda:  173 LSAT, 3.62 GPA"/>
+<set x="173" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tatec/jd" tooltext="tatec:  173 LSAT, 3.8 GPA"/>
+<set x="171" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Campagnolo/jd" tooltext="Campagnolo:  171 LSAT, 3.7 GPA"/>
+<set x="175" y="3.2" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bringit/jd" tooltext="bringit:  175 LSAT, 3.2 GPA"/>
+<set x="174" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cleareyesfullheart/jd" tooltext="cleareyesfullheart:  174 LSAT, 3.91 GPA"/>
+<set x="168" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/iCryptic/jd" tooltext="iCryptic (URM):  168 LSAT, 3.62 GPA"/>
+<set x="170" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/taikofox/jd" tooltext="taikofox:  170 LSAT, 3.85 GPA"/>
+<set x="169" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/taball12/jd" tooltext="taball12:  169 LSAT, 3.73 GPA"/>
+<set x="173" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/danielhay/jd" tooltext="danielhay:  173 LSAT, 3.76 GPA"/>
+<set x="176" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/augster/jd" tooltext="augster:  176 LSAT, 3.73 GPA"/>
+<set x="173" y="3.57" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jennic/jd" tooltext="jennic:  173 LSAT, 3.57 GPA"/>
+<set x="164" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dorito/jd" tooltext="dorito (URM):  164 LSAT, 3.88 GPA"/>
+<set x="159" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/champion11/jd" tooltext="champion11 (URM):  159 LSAT, 3.77 GPA"/>
+<set x="167" y="3.81" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hooma/jd" tooltext="hooma:  167 LSAT, 3.81 GPA"/>
+<set x="172" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Whit2209/jd" tooltext="Whit2209:  172 LSAT, 3.8 GPA"/>
+<set x="171" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/PennObsessed/jd" tooltext="PennObsessed:  171 LSAT, 4 GPA"/>
+<set x="174" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jetissent/jd" tooltext="jetissent:  174 LSAT, 3.85 GPA"/>
+<set x="176" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/taketwo/jd" tooltext="taketwo:  176 LSAT, 3.73 GPA"/>
+<set x="173" y="3.39" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LaRonJames/jd" tooltext="LaRonJames:  173 LSAT, 3.39 GPA"/>
+<set x="174" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/frantiks/jd" tooltext="frantiks:  174 LSAT, 3.87 GPA"/>
+<set x="171" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/alex4law/jd" tooltext="alex4law:  171 LSAT, 3.91 GPA"/>
+<set x="172" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/allofthelights/jd" tooltext="allofthelights:  172 LSAT, 3.55 GPA"/>
+<set x="178" y="3.53" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hannahmontana/jd" tooltext="hannahmontana:  178 LSAT, 3.53 GPA"/>
+<set x="172" y="4.03" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/whofan/jd" tooltext="whofan:  172 LSAT, 4.03 GPA"/>
+<set x="170" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/themightyarsenal/jd" tooltext="themightyarsenal:  170 LSAT, 4 GPA"/>
+<set x="172" y="3.93" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/2012prospective/jd" tooltext="2012prospective:  172 LSAT, 3.93 GPA"/>
+<set x="173" y="3.25" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/whiteguy9/jd" tooltext="whiteguy9:  173 LSAT, 3.25 GPA"/>
+<set x="177" y="3.57" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hicrhodus/jd" tooltext="hicrhodus:  177 LSAT, 3.57 GPA"/>
+<set x="168" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jaggydog/jd" tooltext="jaggydog:  168 LSAT, 3.82 GPA"/>
+<set x="170" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/raj/jd" tooltext="raj:  170 LSAT, 3.98 GPA"/>
+<set x="174" y="3.61" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/davidboring/jd" tooltext="davidboring:  174 LSAT, 3.61 GPA"/>
+<set x="165" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/avd90/jd" tooltext="avd90 (URM):  165 LSAT, 3.89 GPA"/>
+<set x="167" y="4.01" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mattin7827/jd" tooltext="mattin7827:  167 LSAT, 4.01 GPA"/>
+<set x="164" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tjo05/jd" tooltext="tjo05 (URM):  164 LSAT, 3.55 GPA"/>
+<set x="170" y="3.42" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/penguin2/jd" tooltext="penguin2:  170 LSAT, 3.42 GPA"/>
+<set x="166" y="3.81" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kal14/jd" tooltext="kal14 (URM):  166 LSAT, 3.81 GPA"/>
+<set x="170" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bgrdrdr/jd" tooltext="bgrdrdr:  170 LSAT, 3.73 GPA"/>
+<set x="172" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Burgundy/jd" tooltext="Burgundy:  172 LSAT, 3.89 GPA"/>
+<set x="164" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/holden147/jd" tooltext="holden147:  164 LSAT, 3.8 GPA"/>
+<set x="170" y="3.41" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/CrossinMaFingers/jd" tooltext="CrossinMaFingers:  170 LSAT, 3.41 GPA"/>
+<set x="174" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Odysseus/jd" tooltext="Odysseus:  174 LSAT, 3.96 GPA"/>
+<set x="171" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kav0402/jd" tooltext="kav0402:  171 LSAT, 3.79 GPA"/>
+<set x="175" y="3.27" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/evian12/jd" tooltext="evian12:  175 LSAT, 3.27 GPA"/>
+<set x="172" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tmirani/jd" tooltext="tmirani:  172 LSAT, 3.69 GPA"/>
+<set x="170" y="3.74" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tkoglman/jd" tooltext="tkoglman:  170 LSAT, 3.74 GPA"/>
+<set x="170" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/weisgatr/jd" tooltext="weisgatr:  170 LSAT, 3.86 GPA"/>
+<set x="169" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/drunkennoodle/jd" tooltext="drunkennoodle:  169 LSAT, 3.82 GPA"/>
+<set x="159" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/smooth/jd" tooltext="smooth (URM):  159 LSAT, 3.79 GPA"/>
+<set x="169" y="3.61" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/eaper/jd" tooltext="eaper:  169 LSAT, 3.61 GPA"/>
+<set x="169" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Jet116/jd" tooltext="Jet116:  169 LSAT, 3.73 GPA"/>
+<set x="173" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Snehpets/jd" tooltext="Snehpets:  173 LSAT, 3.89 GPA"/>
+<set x="171" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/unicornsexist/jd" tooltext="unicornsexist:  171 LSAT, 3.3 GPA"/>
+<set x="170" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DaftAndDirect/jd" tooltext="DaftAndDirect:  170 LSAT, 3.67 GPA"/>
+<set x="168" y="3.54" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/franklyscarlet/jd" tooltext="franklyscarlet:  168 LSAT, 3.54 GPA"/>
+<set x="169" y="3.81" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MrKbawn/jd" tooltext="MrKbawn:  169 LSAT, 3.81 GPA"/>
+<set x="174" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/xca/jd" tooltext="xca:  174 LSAT, 3.8 GPA"/>
+<set x="168" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/scope/jd" tooltext="scope:  168 LSAT, 3.79 GPA"/>
+<set x="171" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ccmbr006/jd" tooltext="ccmbr006 (URM):  171 LSAT, 3.77 GPA"/>
+<set x="175" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Sweden87/jd" tooltext="Sweden87:  175 LSAT, 3.79 GPA"/>
+<set x="170" y="3.41" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/spliterdone/jd" tooltext="spliterdone:  170 LSAT, 3.41 GPA"/>
+<set x="167" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/CaliforniaGurl/jd" tooltext="CaliforniaGurl:  167 LSAT, 3.8 GPA"/>
+<set x="171" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thegoods/jd" tooltext="thegoods:  171 LSAT, 3.62 GPA"/>
+<set x="172" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jakethejeweler/jd" tooltext="jakethejeweler:  172 LSAT, 3.75 GPA"/>
+<set x="170" y="3.45" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/paralegalle/jd" tooltext="paralegalle:  170 LSAT, 3.45 GPA"/>
+<set x="167" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/CountryStrong/jd" tooltext="CountryStrong:  167 LSAT, 3.78 GPA"/>
+<set x="169" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cactuarX3/jd" tooltext="cactuarX3:  169 LSAT, 3.8 GPA"/>
+<set x="169" y="3.72" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Miso/jd" tooltext="Miso:  169 LSAT, 3.72 GPA"/>
+<set x="173" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/HappyFeet2/jd" tooltext="HappyFeet2:  173 LSAT, 3.6 GPA"/>
+<set x="174" y="3.74" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/loofman/jd" tooltext="loofman:  174 LSAT, 3.74 GPA"/>
+<set x="174" y="3.17" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/saintjake/jd" tooltext="saintjake:  174 LSAT, 3.17 GPA"/>
+<set x="172" y="3.94" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sopro/jd" tooltext="sopro:  172 LSAT, 3.94 GPA"/>
+<set x="169" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/crabcakes/jd" tooltext="crabcakes:  169 LSAT, 3.65 GPA"/>
+<set x="169" y="3.26" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/abstract/jd" tooltext="abstract:  169 LSAT, 3.26 GPA"/>
+<set x="177" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pingrin/jd" tooltext="pingrin:  177 LSAT, 3.8 GPA"/>
+<set x="170" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sn20/jd" tooltext="sn20:  170 LSAT, 3.87 GPA"/>
+<set x="175" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/copper86/jd" tooltext="copper86:  175 LSAT, 3.5 GPA"/>
+<set x="174" y="3.21" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Liam/jd" tooltext="Liam:  174 LSAT, 3.21 GPA"/>
+<set x="174" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/emcoast32/jd" tooltext="emcoast32:  174 LSAT, 3.5 GPA"/>
+<set x="170" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jsl2008/jd" tooltext="jsl2008:  170 LSAT, 3.96 GPA"/>
+<set x="169" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Moultdog/jd" tooltext="Moultdog:  169 LSAT, 3.84 GPA"/>
+<set x="168" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DisneyLovin/jd" tooltext="DisneyLovin:  168 LSAT, 3.8 GPA"/>
+<set x="160" y="2.25" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/EngineTumbler/jd" tooltext="EngineTumbler (URM):  160 LSAT, 2.25 GPA"/>
+<set x="171" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/teacher10456/jd" tooltext="teacher10456:  171 LSAT, 3.8 GPA"/>
+<set x="169" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/monkeyfuzz/jd" tooltext="monkeyfuzz:  169 LSAT, 3.84 GPA"/>
+<set x="171" y="3.45" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/EaglesFan46/jd" tooltext="EaglesFan46:  171 LSAT, 3.45 GPA"/>
+<set x="175" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/leonid723/jd" tooltext="leonid723:  175 LSAT, 3.75 GPA"/>
+<set x="167" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Muffie/jd" tooltext="Muffie:  167 LSAT, 3.85 GPA"/>
+<set x="173" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jfur/jd" tooltext="jfur:  173 LSAT, 3.96 GPA"/>
+<set x="173" y="3.95" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Zelda/jd" tooltext="Zelda:  173 LSAT, 3.95 GPA"/>
+<set x="168" y="3.83" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/qwerty22/jd" tooltext="qwerty22:  168 LSAT, 3.83 GPA"/>
+<set x="170" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jac129/jd" tooltext="jac129:  170 LSAT, 3.79 GPA"/>
+<set x="167" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jsszippo/jd" tooltext="jsszippo:  167 LSAT, 3.76 GPA"/>
+<set x="172" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Ursus13/jd" tooltext="Ursus13:  172 LSAT, 3.79 GPA"/>
+<set x="173" y="3.56" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bhagerty315/jd" tooltext="bhagerty315:  173 LSAT, 3.56 GPA"/>
+<set x="169" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/t30man/jd" tooltext="t30man:  169 LSAT, 3.69 GPA"/>
+<set x="171" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kgr3415/jd" tooltext="kgr3415:  171 LSAT, 3.67 GPA"/>
+<set x="171" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/carolynl/jd" tooltext="carolynl:  171 LSAT, 3.7 GPA"/>
+<set x="172" y="3.66" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ekbrown09/jd" tooltext="ekbrown09:  172 LSAT, 3.66 GPA"/>
+<set x="175" y="3.39" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sputnik/jd" tooltext="sputnik:  175 LSAT, 3.39 GPA"/>
+<set x="173" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Acampbell99/jd" tooltext="Acampbell99:  173 LSAT, 3.9 GPA"/>
+<set x="164" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/AS33/jd" tooltext="AS33:  164 LSAT, 3.65 GPA"/>
+<set x="169" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mruss/jd" tooltext="mruss:  169 LSAT, 3.75 GPA"/>
+<set x="168" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/apxbbq/jd" tooltext="apxbbq:  168 LSAT, 3.76 GPA"/>
+<set x="165" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/GatodeSchrodinger/jd" tooltext="GatodeSchrodinger (URM):  165 LSAT, 3.96 GPA"/>
+<set x="172" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/SaladFingers/jd" tooltext="SaladFingers:  172 LSAT, 3.9 GPA"/>
+<set x="171" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/curiousgeorgia/jd" tooltext="curiousgeorgia:  171 LSAT, 3.9 GPA"/>
+<set x="172" y="3.92" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ccarpenter/jd" tooltext="ccarpenter:  172 LSAT, 3.92 GPA"/>
+<set x="175" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/unknownnumbers/jd" tooltext="unknownnumbers:  175 LSAT, 3.7 GPA"/>
+<set x="163" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/SmileLikeYouMeanIt/jd" tooltext="SmileLikeYouMeanIt (URM):  163 LSAT, 3.9 GPA"/>
+<set x="169" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pcvmb/jd" tooltext="pcvmb:  169 LSAT, 3.6 GPA"/>
+<set x="171" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Smumps/jd" tooltext="Smumps:  171 LSAT, 3.5 GPA"/>
+<set x="169" y="3.81" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/skipy/jd" tooltext="skipy:  169 LSAT, 3.81 GPA"/>
+<set x="166" y="3.22" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hx3/jd" tooltext="hx3 (URM):  166 LSAT, 3.22 GPA"/>
+<set x="168" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/carsonmc/jd" tooltext="carsonmc:  168 LSAT, 3.89 GPA"/>
+<set x="177" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/c0ldestwinter/jd" tooltext="c0ldestwinter:  177 LSAT, 3.78 GPA"/>
+<set x="167" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/callihanfamily/jd" tooltext="callihanfamily:  167 LSAT, 3.84 GPA"/>
+<set x="170" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/wendys27/jd" tooltext="wendys27:  170 LSAT, 3.7 GPA"/>
+<set x="172" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/softsmatter12/jd" tooltext="softsmatter12:  172 LSAT, 3.3 GPA"/>
+<set x="177" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/PDXNative/jd" tooltext="PDXNative:  177 LSAT, 3.9 GPA"/>
+<set x="172" y="3.68" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/RonPaul2012/jd" tooltext="RonPaul2012:  172 LSAT, 3.68 GPA"/>
+<set x="172" y="3.95" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/csan12/jd" tooltext="csan12:  172 LSAT, 3.95 GPA"/>
+<set x="169" y="3.95" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/PayingItForward/jd" tooltext="PayingItForward:  169 LSAT, 3.95 GPA"/>
+<set x="166" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/awuminator/jd" tooltext="awuminator:  166 LSAT, 3.88 GPA"/>
+<set x="180" y="3.45" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MrNobody/jd" tooltext="MrNobody:  180 LSAT, 3.45 GPA"/>
+<set x="173" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hopefull2012/jd" tooltext="hopefull2012:  173 LSAT, 3.78 GPA"/>
+<set x="178" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/perneinagyre/jd" tooltext="perneinagyre:  178 LSAT, 3.55 GPA"/>
+<set x="169" y="3.93" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/theshah/jd" tooltext="theshah:  169 LSAT, 3.93 GPA"/>
+<set x="168" y="3.17" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/plaid2012/jd" tooltext="plaid2012 (URM):  168 LSAT, 3.17 GPA"/>
+<set x="162" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/gatorslaw/jd" tooltext="gatorslaw:  162 LSAT, 3.78 GPA"/>
+<set x="172" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Mtlcat/jd" tooltext="Mtlcat:  172 LSAT, 3.82 GPA"/>
+<set x="166" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/spiritniffler189/jd" tooltext="spiritniffler189 (URM):  166 LSAT, 3.3 GPA"/>
+<set x="176" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DonnyCrane/jd" tooltext="DonnyCrane:  176 LSAT, 3.55 GPA"/>
+<set x="169" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bklyn11211/jd" tooltext="bklyn11211:  169 LSAT, 3.79 GPA"/>
+<set x="171" y="3.44" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jrthor10/jd" tooltext="jrthor10:  171 LSAT, 3.44 GPA"/>
+<set x="172" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/swoozie/jd" tooltext="swoozie:  172 LSAT, 3.5 GPA"/>
+<set x="172" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jayryy/jd" tooltext="jayryy:  172 LSAT, 3.84 GPA"/>
+<set x="176" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/coward/jd" tooltext="coward:  176 LSAT, 3.4 GPA"/>
+<set x="163" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/buckeyegrrl/jd" tooltext="buckeyegrrl (URM):  163 LSAT, 3.8 GPA"/>
+<set x="168" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/19871987/jd" tooltext="19871987:  168 LSAT, 3.91 GPA"/>
+<set x="159" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/uscco15/jd" tooltext="uscco15 (URM):  159 LSAT, 3.67 GPA"/>
+<set x="176" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/EaglesWings/jd" tooltext="EaglesWings:  176 LSAT, 3.4 GPA"/>
+<set x="172" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/FreddieHayek/jd" tooltext="FreddieHayek:  172 LSAT, 3.85 GPA"/>
+<set x="169" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lawbound2012/jd" tooltext="lawbound2012:  169 LSAT, 3.6 GPA"/>
+<set x="165" y="3.41" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Orbitking2000/jd" tooltext="Orbitking2000 (URM):  165 LSAT, 3.41 GPA"/>
+<set x="169" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/breadbucket/jd" tooltext="breadbucket:  169 LSAT, 3.9 GPA"/>
+<set x="170" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/GA2015/jd" tooltext="GA2015:  170 LSAT, 3.55 GPA"/>
+<set x="165" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/nickg1386/jd" tooltext="nickg1386:  165 LSAT, 3.76 GPA"/>
+<set x="175" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/nametaken/jd" tooltext="nametaken:  175 LSAT, 3.9 GPA"/>
+<set x="170" y="3.1" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/swtlilsoni/jd" tooltext="swtlilsoni:  170 LSAT, 3.1 GPA"/>
+<set x="172" y="4.01" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cloudgazer/jd" tooltext="cloudgazer:  172 LSAT, 4.01 GPA"/>
+<set x="173" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lawlskewll/jd" tooltext="lawlskewll:  173 LSAT, 3.8 GPA"/>
+<set x="177" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/j0sh0man/jd" tooltext="j0sh0man:  177 LSAT, 3.9 GPA"/>
+<set x="173" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/xela10022/jd" tooltext="xela10022:  173 LSAT, 3.8 GPA"/>
+<set x="178" y="3.63" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/carneAsada/jd" tooltext="carneAsada:  178 LSAT, 3.63 GPA"/>
+<set x="165" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ellums12/jd" tooltext="ellums12:  165 LSAT, 3.98 GPA"/>
+<set x="172" y="3.53" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/shornik26/jd" tooltext="shornik26:  172 LSAT, 3.53 GPA"/>
+<set x="170" y="3.56" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DreDay07/jd" tooltext="DreDay07:  170 LSAT, 3.56 GPA"/>
+<set x="176" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cataclysmicvariable/jd" tooltext="cataclysmicvariable:  176 LSAT, 3.9 GPA"/>
+<set x="170" y="4.08" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/youngmoolah/jd" tooltext="youngmoolah:  170 LSAT, 4.08 GPA"/>
+<set x="173" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/imjustjoking/jd" tooltext="imjustjoking:  173 LSAT, 3.3 GPA"/>
+<set x="173" y="3.31" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Excellent117/jd" tooltext="Excellent117:  173 LSAT, 3.31 GPA"/>
+<set x="172" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/potl/jd" tooltext="potl:  172 LSAT, 3.8 GPA"/>
+<set x="176" y="3.61" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mikeymoo/jd" tooltext="mikeymoo:  176 LSAT, 3.61 GPA"/>
+<set x="167" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/docomo/jd" tooltext="docomo:  167 LSAT, 3.7 GPA"/>
+<set x="166" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cheers2015/jd" tooltext="cheers2015:  166 LSAT, 3.98 GPA"/>
+<set x="175" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dae/jd" tooltext="dae:  175 LSAT, 3.75 GPA"/>
+<set x="174" y="3.44" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/slion2012/jd" tooltext="slion2012:  174 LSAT, 3.44 GPA"/>
+<set x="176" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/syme/jd" tooltext="syme:  176 LSAT, 3.75 GPA"/>
+<set x="167" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mrunemployed/jd" tooltext="mrunemployed:  167 LSAT, 4 GPA"/>
+<set x="175" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cornellian0330/jd" tooltext="cornellian0330:  175 LSAT, 3.79 GPA"/>
+<set x="164" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/monpetit/jd" tooltext="monpetit (URM):  164 LSAT, 3.8 GPA"/>
+<set x="167" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/interestingly/jd" tooltext="interestingly:  167 LSAT, 3.8 GPA"/>
+<set x="167" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/wolf/jd" tooltext="wolf:  167 LSAT, 3.78 GPA"/>
+<set x="159" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/grecodawg/jd" tooltext="grecodawg:  159 LSAT, 3.9 GPA"/>
+<set x="169" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ghghghhhg2000/jd" tooltext="ghghghhhg2000:  169 LSAT, 4 GPA"/>
+<set x="167" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/drizzle12/jd" tooltext="drizzle12 (URM):  167 LSAT, 3.73 GPA"/>
+<set x="170" y="3.36" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jpos27/jd" tooltext="jpos27:  170 LSAT, 3.36 GPA"/>
+<set x="163" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mishap/jd" tooltext="mishap (URM):  163 LSAT, 3.9 GPA"/>
+<set x="169" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/spark775/jd" tooltext="spark775:  169 LSAT, 3.65 GPA"/>
+<set x="167" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/EMZE/jd" tooltext="EMZE:  167 LSAT, 3.4 GPA"/>
+<set x="171" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dlsts2012/jd" tooltext="dlsts2012:  171 LSAT, 3.8 GPA"/>
+<set x="174" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/missflo/jd" tooltext="missflo (URM):  174 LSAT, 3.7 GPA"/>
+<set x="171" y="3.367" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/TheEddie/jd" tooltext="TheEddie:  171 LSAT, 3.367 GPA"/>
+<set x="169" y="3.72" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/booblee/jd" tooltext="booblee:  169 LSAT, 3.72 GPA"/>
+<set x="172" y="3.42" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://users.lawschoolnumbers.com/view/jd?message=hiddenuser" tooltext="Hidden Profile:  172 LSAT, 3.42 GPA"/>
+<set x="169" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mdtvandy/jd" tooltext="mdtvandy:  169 LSAT, 3.69 GPA"/>
+<set x="172" y="3.68" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pcwcecac/jd" tooltext="pcwcecac:  172 LSAT, 3.68 GPA"/>
+<set x="174" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lawschoolinator/jd" tooltext="lawschoolinator:  174 LSAT, 3.9 GPA"/>
+<set x="173" y="3.39" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ilovestandardtests/jd" tooltext="ilovestandardtests:  173 LSAT, 3.39 GPA"/>
+<set x="174" y="3.46" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/djtopicality/jd" tooltext="djtopicality:  174 LSAT, 3.46 GPA"/>
+<set x="175" y="3.52" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hoopla/jd" tooltext="hoopla:  175 LSAT, 3.52 GPA"/>
+<set x="173" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kodiak/jd" tooltext="kodiak:  173 LSAT, 3.7 GPA"/>
+<set x="173" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kdogg/jd" tooltext="kdogg:  173 LSAT, 3.62 GPA"/>
+<set x="165" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tiger11/jd" tooltext="tiger11 (URM):  165 LSAT, 3.85 GPA"/>
+<set x="170" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/yikes0117/jd" tooltext="yikes0117:  170 LSAT, 4 GPA"/>
+<set x="169" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/beebaily814/jd" tooltext="beebaily814:  169 LSAT, 3.65 GPA"/>
+<set x="171" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Chiller303/jd" tooltext="Chiller303:  171 LSAT, 3.62 GPA"/>
+<set x="172" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/yenahsretnuh/jd" tooltext="yenahsretnuh:  172 LSAT, 3.6 GPA"/>
+<set x="165" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/nstefaniak3/jd" tooltext="nstefaniak3:  165 LSAT, 3.77 GPA"/>
+<set x="170" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/envisciguy/jd" tooltext="envisciguy:  170 LSAT, 3.9 GPA"/>
+<set x="175" y="3.44" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/juju96/jd" tooltext="juju96:  175 LSAT, 3.44 GPA"/>
+<set x="167" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/moxy/jd" tooltext="moxy:  167 LSAT, 3.98 GPA"/>
+<set x="173" y="3.1" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/blobmonsterhijack/jd" tooltext="blobmonsterhijack:  173 LSAT, 3.1 GPA"/>
+<set x="170" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/undergrad90/jd" tooltext="undergrad90:  170 LSAT, 3.88 GPA"/>
+<set x="169" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sgiridha/jd" tooltext="sgiridha:  169 LSAT, 3.73 GPA"/>
+<set x="159" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LeaLove/jd" tooltext="LeaLove (URM):  159 LSAT, 3.9 GPA"/>
+<set x="171" y="3.24" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/brettlastname/jd" tooltext="brettlastname:  171 LSAT, 3.24 GPA"/>
+<set x="170" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/justicefishy/jd" tooltext="justicefishy:  170 LSAT, 3.4 GPA"/>
+<set x="172" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/brush07/jd" tooltext="brush07:  172 LSAT, 3.84 GPA"/>
+<set x="165" y="3.85" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/saulgoodman86/jd" tooltext="saulgoodman86:  165 LSAT, 3.85 GPA"/>
+<set x="170" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/summermc/jd" tooltext="summermc:  170 LSAT, 3.6 GPA"/>
+<set x="168" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mkmccorm/jd" tooltext="mkmccorm:  168 LSAT, 3.76 GPA"/>
+<set x="175" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kran23/jd" tooltext="kran23:  175 LSAT, 3.9 GPA"/>
+<set x="171" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/selfauthenticating/jd" tooltext="selfauthenticating:  171 LSAT, 3.98 GPA"/>
+<set x="171" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Chromakey/jd" tooltext="Chromakey:  171 LSAT, 3.4 GPA"/>
+<set x="168" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/juj122/jd" tooltext="juj122:  168 LSAT, 3.8 GPA"/>
+<set x="170" y="4.18" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/amp9rb/jd" tooltext="amp9rb:  170 LSAT, 4.18 GPA"/>
+<set x="173" y="3.81" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/freestallion/jd" tooltext="freestallion:  173 LSAT, 3.81 GPA"/>
+<set x="170" y="4.06" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LaCumparsita/jd" tooltext="LaCumparsita:  170 LSAT, 4.06 GPA"/>
+<set x="167" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/121212/jd" tooltext="121212 (URM):  167 LSAT, 3.77 GPA"/>
+<set x="170" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/anewaphorist/jd" tooltext="anewaphorist:  170 LSAT, 3.98 GPA"/>
+<set x="171" y="3.83" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/elibrarian/jd" tooltext="elibrarian:  171 LSAT, 3.83 GPA"/>
+<set x="171" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Drogoat/jd" tooltext="Drogoat:  171 LSAT, 3.96 GPA"/>
+<set x="173" y="3.39" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/growlithe/jd" tooltext="growlithe (URM):  173 LSAT, 3.39 GPA"/>
+<set x="170" y="4.1" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/nids333/jd" tooltext="nids333:  170 LSAT, 4.1 GPA"/>
+<set x="172" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/icedflames/jd" tooltext="icedflames:  172 LSAT, 3.9 GPA"/>
+<set x="170" y="3.54" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cjl2009/jd" tooltext="cjl2009:  170 LSAT, 3.54 GPA"/>
+<set x="173" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/SirGaga/jd" tooltext="SirGaga:  173 LSAT, 3.5 GPA"/>
+<set x="173" y="3.64" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ariake890/jd" tooltext="ariake890:  173 LSAT, 3.64 GPA"/>
+<set x="167" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Proverbs3189/jd" tooltext="Proverbs3189 (URM):  167 LSAT, 3.96 GPA"/>
+<set x="176" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/petunia11/jd" tooltext="petunia11:  176 LSAT, 3.55 GPA"/>
+<set x="173" y="3.36" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ny8so/jd" tooltext="ny8so:  173 LSAT, 3.36 GPA"/>
+<set x="177" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Maopa/jd" tooltext="Maopa:  177 LSAT, 3.82 GPA"/>
+<set x="179" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/gogojojo/jd" tooltext="gogojojo:  179 LSAT, 3.91 GPA"/>
+<set x="172" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/aperfectmap/jd" tooltext="aperfectmap:  172 LSAT, 3.96 GPA"/>
+<set x="174" y="3.53" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Yesh90/jd" tooltext="Yesh90:  174 LSAT, 3.53 GPA"/>
+<set x="172" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sea15/jd" tooltext="sea15:  172 LSAT, 3.98 GPA"/>
+<set x="170" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/halfwayhome/jd" tooltext="halfwayhome:  170 LSAT, 3.9 GPA"/>
+<set x="170" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jjcheng/jd" tooltext="jjcheng:  170 LSAT, 3.75 GPA"/>
+<set x="174" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Cravin/jd" tooltext="Cravin:  174 LSAT, 3.5 GPA"/>
+<set x="171" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LeftCoast/jd" tooltext="LeftCoast:  171 LSAT, 3.75 GPA"/>
+<set x="173" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mnkybtlr/jd" tooltext="mnkybtlr:  173 LSAT, 3.86 GPA"/>
+<set x="171" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/malmo/jd" tooltext="malmo:  171 LSAT, 3.9 GPA"/>
+<set x="173" y="3.49" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cashew/jd" tooltext="cashew:  173 LSAT, 3.49 GPA"/>
+<set x="170" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Hubbz/jd" tooltext="Hubbz:  170 LSAT, 3.88 GPA"/>
+<set x="170" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/avrenim/jd" tooltext="avrenim:  170 LSAT, 3.9 GPA"/>
+<set x="171" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tjddk/jd" tooltext="tjddk:  171 LSAT, 3.5 GPA"/>
+<set x="169" y="3.94" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Actorman13/jd" tooltext="Actorman13:  169 LSAT, 3.94 GPA"/>
+<set x="173" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Hurricane/jd" tooltext="Hurricane:  173 LSAT, 3.6 GPA"/>
+<set x="170" y="3.93" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/koalah/jd" tooltext="koalah:  170 LSAT, 3.93 GPA"/>
+<set x="167" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/angels6578/jd" tooltext="angels6578 (URM):  167 LSAT, 3.4 GPA"/>
+<set x="173" y="3.99" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thederangedwang/jd" tooltext="thederangedwang:  173 LSAT, 3.99 GPA"/>
+<set x="177" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/yankees42789/jd" tooltext="yankees42789:  177 LSAT, 3.84 GPA"/>
+<set x="175" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bleepbloop/jd" tooltext="bleepbloop:  175 LSAT, 4 GPA"/>
+<set x="175" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hetfocus/jd" tooltext="hetfocus:  175 LSAT, 3.98 GPA"/>
+<set x="175" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jphilli1/jd" tooltext="jphilli1:  175 LSAT, 3.91 GPA"/>
+<set x="161" y="4.1" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/luffychoppa/jd" tooltext="luffychoppa (URM):  161 LSAT, 4.1 GPA"/>
+<set x="171" y="3.53" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/iamrobk/jd" tooltext="iamrobk:  171 LSAT, 3.53 GPA"/>
+<set x="172" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thestillpoint/jd" tooltext="thestillpoint:  172 LSAT, 3.9 GPA"/>
+<set x="171" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mmkitkat/jd" tooltext="mmkitkat (URM):  171 LSAT, 3.7 GPA"/>
+<set x="171" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Flavopurpurea/jd" tooltext="Flavopurpurea:  171 LSAT, 3.73 GPA"/>
+<set x="173" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/FEE/jd" tooltext="FEE:  173 LSAT, 3.86 GPA"/>
+<set x="169" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/frenchtoast/jd" tooltext="frenchtoast:  169 LSAT, 3.9 GPA"/>
+<set x="175" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dodorabbit/jd" tooltext="dodorabbit:  175 LSAT, 3.9 GPA"/>
+<set x="172" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/zoohoo/jd" tooltext="zoohoo:  172 LSAT, 3.82 GPA"/>
+<set x="172" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hunt7905/jd" tooltext="hunt7905:  172 LSAT, 3.65 GPA"/>
+<set x="174" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DannyM/jd" tooltext="DannyM:  174 LSAT, 3.5 GPA"/>
+<set x="169" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kns5149/jd" tooltext="kns5149:  169 LSAT, 3.87 GPA"/>
+<set x="167" y="3.68" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mnw992/jd" tooltext="mnw992:  167 LSAT, 3.68 GPA"/>
+<set x="172" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MB2389/jd" tooltext="MB2389:  172 LSAT, 3.89 GPA"/>
+<set x="175" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/manatee57/jd" tooltext="manatee57:  175 LSAT, 3.88 GPA"/>
+<set x="171" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LawandDevelopment/jd" tooltext="LawandDevelopment:  171 LSAT, 3.86 GPA"/>
+<set x="169" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Itis/jd" tooltext="Itis:  169 LSAT, 3.82 GPA"/>
+<set x="172" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/westc/jd" tooltext="westc:  172 LSAT, 3.6 GPA"/>
+<set x="172" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ImaLawyerTrustMe/jd" tooltext="ImaLawyerTrustMe:  172 LSAT, 3.84 GPA"/>
+<set x="173" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/richyrich/jd" tooltext="richyrich:  173 LSAT, 3.89 GPA"/>
+<set x="177" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/coatis/jd" tooltext="coatis:  177 LSAT, 4 GPA"/>
+<set x="167" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/zeeebo1006/jd" tooltext="zeeebo1006:  167 LSAT, 3.76 GPA"/>
+<set x="170" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/justtiinnn/jd" tooltext="justtiinnn:  170 LSAT, 3.91 GPA"/>
+<set x="166" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MatMat/jd" tooltext="MatMat (URM):  166 LSAT, 3.87 GPA"/>
+<set x="165" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/eafletcher107/jd" tooltext="eafletcher107:  165 LSAT, 4 GPA"/>
+<set x="174" y="3.94" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mognet9/jd" tooltext="mognet9:  174 LSAT, 3.94 GPA"/>
+<set x="168" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Mamula/jd" tooltext="Mamula:  168 LSAT, 3.9 GPA"/>
+<set x="172" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/shoegaze/jd" tooltext="shoegaze:  172 LSAT, 3.87 GPA"/>
+<set x="177" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/shoelicker/jd" tooltext="shoelicker:  177 LSAT, 3.8 GPA"/>
+<set x="178" y="3.45" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/2plus2muchMath/jd" tooltext="2plus2muchMath:  178 LSAT, 3.45 GPA"/>
+<set x="174" y="3.94" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/seattleite23/jd" tooltext="seattleite23:  174 LSAT, 3.94 GPA"/>
+<set x="171" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/erinbecca/jd" tooltext="erinbecca:  171 LSAT, 3.8 GPA"/>
+<set x="173" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/gristedes/jd" tooltext="gristedes:  173 LSAT, 3.7 GPA"/>
+<set x="160" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kcirdor01/jd" tooltext="kcirdor01 (URM):  160 LSAT, 3.79 GPA"/>
+<set x="155" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/AmericanKbart/jd" tooltext="AmericanKbart (URM):  155 LSAT, 3.7 GPA"/>
+<set x="172" y="3.02" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sfzephyd/jd" tooltext="sfzephyd:  172 LSAT, 3.02 GPA"/>
+<set x="170" y="3.19" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/12b6/jd" tooltext="12b6:  170 LSAT, 3.19 GPA"/>
+<set x="168" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/homercles/jd" tooltext="homercles:  168 LSAT, 3.77 GPA"/>
+<set x="172" y="3.33" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dar/jd" tooltext="dar:  172 LSAT, 3.33 GPA"/>
+<set x="172" y="2.61" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/benito/jd" tooltext="benito:  172 LSAT, 2.61 GPA"/>
+<set x="164" y="4.1" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/iamgoingtolawschool/jd" tooltext="iamgoingtolawschool:  164 LSAT, 4.1 GPA"/>
+<set x="163" y="3.77" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jm1212/jd" tooltext="jm1212:  163 LSAT, 3.77 GPA"/>
+<set x="165" y="3.74" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/shibby96/jd" tooltext="shibby96:  165 LSAT, 3.74 GPA"/>
+<set x="164" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/letmein99/jd" tooltext="letmein99:  164 LSAT, 3.82 GPA"/>
+<set x="167" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/eleskay22/jd" tooltext="eleskay22:  167 LSAT, 3.76 GPA"/>
+<set x="172" y="3.13" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sjj1409/jd" tooltext="sjj1409:  172 LSAT, 3.13 GPA"/>
+<set x="173" y="3.36" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dore12/jd" tooltext="dore12:  173 LSAT, 3.36 GPA"/>
+<set x="169" y="3.74" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/SpJohn9509/jd" tooltext="SpJohn9509:  169 LSAT, 3.74 GPA"/>
+<set x="174" y="3.34" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Zacharus85/jd" tooltext="Zacharus85:  174 LSAT, 3.34 GPA"/>
+<set x="177" y="3.15" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Bobeo/jd" tooltext="Bobeo:  177 LSAT, 3.15 GPA"/>
+<set x="174" y="3.83" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ieuanjonesy/jd" tooltext="ieuanjonesy:  174 LSAT, 3.83 GPA"/>
+<set x="173" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/BostonNYG2245/jd" tooltext="BostonNYG2245:  173 LSAT, 3.69 GPA"/>
+<set x="168" y="3.26" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ThisIsGoingToHurt/jd" tooltext="ThisIsGoingToHurt:  168 LSAT, 3.26 GPA"/>
+<set x="171" y="3.36" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/zylaxice/jd" tooltext="zylaxice:  171 LSAT, 3.36 GPA"/>
+<set x="169" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/atticus89/jd" tooltext="atticus89:  169 LSAT, 3.9 GPA"/>
+<set x="172" y="3.83" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dashingdancer/jd" tooltext="dashingdancer:  172 LSAT, 3.83 GPA"/>
+<set x="169" y="3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Mav1989/jd" tooltext="Mav1989 (URM):  169 LSAT, 3 GPA"/>
+<set x="170" y="3.95" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Barca10/jd" tooltext="Barca10 (URM):  170 LSAT, 3.95 GPA"/>
+<set x="177" y="3.88" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/johnkim1982/jd" tooltext="johnkim1982:  177 LSAT, 3.88 GPA"/>
+<set x="170" y="3.64" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/versusversus/jd" tooltext="versusversus:  170 LSAT, 3.64 GPA"/></dataSet>
+
+<dataSet id="DS2" seriesName="Rejected" color="FF0000" showPlotBorder="1" anchorRadius="4" anchorBgColor="FF0000">
+	
+<set x="162" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/clairecate/jd" tooltext="clairecate:  162 LSAT, 3.6 GPA"/>
+<set x="168" y="2.51" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/requiem/jd" tooltext="requiem (URM):  168 LSAT, 2.51 GPA"/>
+<set x="155" y="2.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dink3500/jd" tooltext="dink3500 (URM):  155 LSAT, 2.7 GPA"/>
+<set x="151" y="3.04" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/inlays85/jd" tooltext="inlays85 (URM):  151 LSAT, 3.04 GPA"/>
+<set x="170" y="2.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jsiegz/jd" tooltext="jsiegz:  170 LSAT, 2.73 GPA"/>
+<set x="165" y="3.56" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/boosk/jd" tooltext="boosk (URM):  165 LSAT, 3.56 GPA"/>
+<set x="165" y="2.95" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://users.lawschoolnumbers.com/view/jd?message=hiddenuser" tooltext="Hidden Profile (URM):  165 LSAT, 2.95 GPA"/>
+<set x="165" y="2.63" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jellocruz/jd" tooltext="jellocruz (URM):  165 LSAT, 2.63 GPA"/>
+<set x="164" y="3.15" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ds52075/jd" tooltext="ds52075:  164 LSAT, 3.15 GPA"/>
+<set x="152" y="3.27" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/westie1/jd" tooltext="westie1:  152 LSAT, 3.27 GPA"/>
+<set x="165" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/abs9311/jd" tooltext="abs9311:  165 LSAT, 3.4 GPA"/>
+<set x="159" y="3.68" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Cahal23/jd" tooltext="Cahal23:  159 LSAT, 3.68 GPA"/>
+<set x="167" y="3.2" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/supercircuit/jd" tooltext="supercircuit:  167 LSAT, 3.2 GPA"/>
+<set x="164" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/moaimoai/jd" tooltext="moaimoai:  164 LSAT, 3.98 GPA"/>
+<set x="167" y="3.24" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lrslayer/jd" tooltext="lrslayer:  167 LSAT, 3.24 GPA"/>
+<set x="159" y="3.97" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/JudgeMonty/jd" tooltext="JudgeMonty:  159 LSAT, 3.97 GPA"/>
+<set x="157" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/shawk23/jd" tooltext="shawk23 (URM):  157 LSAT, 3.78 GPA"/>
+<set x="159" y="3.17" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Quillo/jd" tooltext="Quillo (URM):  159 LSAT, 3.17 GPA"/>
+<set x="166" y="3.73" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jedmitch/jd" tooltext="jedmitch:  166 LSAT, 3.73 GPA"/>
+<set x="162" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ncblue102/jd" tooltext="ncblue102 (URM):  162 LSAT, 3.62 GPA"/>
+<set x="158" y="3.31" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thementor31337/jd" tooltext="thementor31337:  158 LSAT, 3.31 GPA"/>
+<set x="164" y="3.53" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/berryboy/jd" tooltext="berryboy (URM):  164 LSAT, 3.53 GPA"/>
+<set x="166" y="3.08" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/abaugus/jd" tooltext="abaugus:  166 LSAT, 3.08 GPA"/>
+<set x="144" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/erandol2/jd" tooltext="erandol2:  144 LSAT, 3.3 GPA"/>
+<set x="167" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/AnonlawHero/jd" tooltext="AnonlawHero:  167 LSAT, 3.6 GPA"/>
+<set x="163" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cph4life/jd" tooltext="cph4life:  163 LSAT, 3.5 GPA"/>
+<set x="164" y="3.72" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/vwhoa/jd" tooltext="vwhoa:  164 LSAT, 3.72 GPA"/>
+<set x="165" y="3.57" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Linus19/jd" tooltext="Linus19:  165 LSAT, 3.57 GPA"/>
+<set x="170" y="3.27" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/J10203/jd" tooltext="J10203:  170 LSAT, 3.27 GPA"/>
+<set x="156" y="3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jaydg8200/jd" tooltext="jaydg8200:  156 LSAT, 3 GPA"/>
+<set x="158" y="3.72" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/gobruins/jd" tooltext="gobruins:  158 LSAT, 3.72 GPA"/>
+<set x="161" y="3.25" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DJCat/jd" tooltext="DJCat (URM):  161 LSAT, 3.25 GPA"/>
+<set x="167" y="3.43" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/yeeyee2/jd" tooltext="yeeyee2:  167 LSAT, 3.43 GPA"/>
+<set x="166" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/SunDrop/jd" tooltext="SunDrop:  166 LSAT, 3.4 GPA"/>
+<set x="167" y="2.49" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/maskedkavana/jd" tooltext="maskedkavana:  167 LSAT, 2.49 GPA"/>
+<set x="165" y="3.51" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mwdtarheel/jd" tooltext="mwdtarheel:  165 LSAT, 3.51 GPA"/>
+<set x="169" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/BBL/jd" tooltext="BBL:  169 LSAT, 3.3 GPA"/>
+<set x="166" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hannersssss/jd" tooltext="hannersssss:  166 LSAT, 3.55 GPA"/>
+<set x="144" y="3.31" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ilawyer202/jd" tooltext="ilawyer202 (URM):  144 LSAT, 3.31 GPA"/>
+<set x="157" y="3.26" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/whiteviolet/jd" tooltext="whiteviolet (URM):  157 LSAT, 3.26 GPA"/>
+<set x="167" y="3.38" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/JB0L/jd" tooltext="JB0L:  167 LSAT, 3.38 GPA"/>
+<set x="158" y="2.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/FerrisCooler/jd" tooltext="FerrisCooler (URM):  158 LSAT, 2.69 GPA"/>
+<set x="167" y="3.27" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/chaikhovskee/jd" tooltext="chaikhovskee:  167 LSAT, 3.27 GPA"/>
+<set x="162" y="3.41" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/psmith96/jd" tooltext="psmith96:  162 LSAT, 3.41 GPA"/>
+<set x="167" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pinecone1/jd" tooltext="pinecone1:  167 LSAT, 3.67 GPA"/>
+<set x="155" y="3.51" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/avidlistener/jd" tooltext="avidlistener (URM):  155 LSAT, 3.51 GPA"/>
+<set x="163" y="3.93" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/dkpianoman/jd" tooltext="dkpianoman:  163 LSAT, 3.93 GPA"/>
+<set x="168" y="3.64" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/20111102/jd" tooltext="20111102:  168 LSAT, 3.64 GPA"/>
+<set x="152" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/magnoliastar/jd" tooltext="magnoliastar (URM):  152 LSAT, 3.5 GPA"/>
+<set x="163" y="2.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ange8301/jd" tooltext="ange8301 (URM):  163 LSAT, 2.7 GPA"/>
+<set x="162" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/UES3d/jd" tooltext="UES3d:  162 LSAT, 3.4 GPA"/>
+<set x="161" y="3.66" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/barbizon/jd" tooltext="barbizon (URM):  161 LSAT, 3.66 GPA"/>
+<set x="166" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/uptowngirl22/jd" tooltext="uptowngirl22:  166 LSAT, 3.4 GPA"/>
+<set x="166" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/pacifcnw/jd" tooltext="pacifcnw:  166 LSAT, 3.62 GPA"/>
+<set x="164" y="3.53" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kevco55555/jd" tooltext="kevco55555:  164 LSAT, 3.53 GPA"/>
+<set x="161" y="3.66" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hob12/jd" tooltext="hob12:  161 LSAT, 3.66 GPA"/>
+<set x="163" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/oftranch/jd" tooltext="oftranch:  163 LSAT, 3.8 GPA"/>
+<set x="167" y="3.35" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/kim2012/jd" tooltext="kim2012:  167 LSAT, 3.35 GPA"/>
+<set x="157" y="3.2" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/anjmissy/jd" tooltext="anjmissy (URM):  157 LSAT, 3.2 GPA"/>
+<set x="164" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/GameofThrones/jd" tooltext="GameofThrones:  164 LSAT, 3.7 GPA"/>
+<set x="162" y="2.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ICURN/jd" tooltext="ICURN:  162 LSAT, 2.78 GPA"/>
+<set x="168" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LeapTrader/jd" tooltext="LeapTrader:  168 LSAT, 3.5 GPA"/>
+<set x="157" y="3.51" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MoreLikeLawlSchool/jd" tooltext="MoreLikeLawlSchool:  157 LSAT, 3.51 GPA"/>
+<set x="159" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/vsidelaw/jd" tooltext="vsidelaw:  159 LSAT, 3.4 GPA"/>
+<set x="165" y="3.44" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bjs987/jd" tooltext="bjs987:  165 LSAT, 3.44 GPA"/>
+<set x="166" y="3.38" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/law061724/jd" tooltext="law061724:  166 LSAT, 3.38 GPA"/>
+<set x="167" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/canitbeereel/jd" tooltext="canitbeereel:  167 LSAT, 3.7 GPA"/>
+<set x="167" y="3.51" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/larochejaquelein/jd" tooltext="larochejaquelein:  167 LSAT, 3.51 GPA"/>
+<set x="167" y="3.64" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/WaitandSee22/jd" tooltext="WaitandSee22:  167 LSAT, 3.64 GPA"/>
+<set x="161" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/radr329/jd" tooltext="radr329:  161 LSAT, 3.87 GPA"/>
+<set x="163" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/OAKEidolon/jd" tooltext="OAKEidolon:  163 LSAT, 4 GPA"/></dataSet>
+
+<dataSet id="DS3" seriesName="Waitlisted" color="ffd700" showPlotBorder="1" anchorRadius="4" anchorBgColor="ffd700">
+	
+<set x="167" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/matveib/jd" tooltext="matveib:  167 LSAT, 3.96 GPA"/>
+<set x="177" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/wa810smart/jd" tooltext="wa810smart:  177 LSAT, 3.89 GPA"/>
+<set x="161" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Elric/jd" tooltext="Elric (URM):  161 LSAT, 3.4 GPA"/>
+<set x="168" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Aureateone/jd" tooltext="Aureateone:  168 LSAT, 3.65 GPA"/>
+<set x="166" y="3.82" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/gatorapplicant/jd" tooltext="gatorapplicant:  166 LSAT, 3.82 GPA"/>
+<set x="173" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mikethewilliams/jd" tooltext="mikethewilliams:  173 LSAT, 3.4 GPA"/>
+<set x="175" y="3.09" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Samara/jd" tooltext="Samara:  175 LSAT, 3.09 GPA"/>
+<set x="156" y="3.45" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/parebare23/jd" tooltext="parebare23 (URM):  156 LSAT, 3.45 GPA"/>
+<set x="163" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ivory7/jd" tooltext="ivory7:  163 LSAT, 3.8 GPA"/>
+<set x="169" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/eex/jd" tooltext="eex:  169 LSAT, 3.3 GPA"/>
+<set x="159" y="3.89" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mrodriguez1130/jd" tooltext="mrodriguez1130 (URM):  159 LSAT, 3.89 GPA"/>
+<set x="168" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Kirkland/jd" tooltext="Kirkland:  168 LSAT, 3.9 GPA"/>
+<set x="166" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/johnnymd/jd" tooltext="johnnymd (URM):  166 LSAT, 3.4 GPA"/>
+<set x="176" y="2.92" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ryemanhattan/jd" tooltext="ryemanhattan:  176 LSAT, 2.92 GPA"/>
+<set x="169" y="3.68" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tmatsushita/jd" tooltext="tmatsushita:  169 LSAT, 3.68 GPA"/>
+<set x="179" y="2.58" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mssplitter/jd" tooltext="mssplitter:  179 LSAT, 2.58 GPA"/>
+<set x="164" y="3.97" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/natcas90/jd" tooltext="natcas90 (URM):  164 LSAT, 3.97 GPA"/>
+<set x="169" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/BamHI/jd" tooltext="BamHI:  169 LSAT, 3.67 GPA"/>
+<set x="170" y="3.38" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/carpethediem/jd" tooltext="carpethediem:  170 LSAT, 3.38 GPA"/>
+<set x="168" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/maycomb/jd" tooltext="maycomb:  168 LSAT, 3.8 GPA"/>
+<set x="170" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tincup/jd" tooltext="tincup:  170 LSAT, 4 GPA"/>
+<set x="165" y="3.61" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bro2baseball/jd" tooltext="bro2baseball (URM):  165 LSAT, 3.61 GPA"/>
+<set x="175" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/coresq/jd" tooltext="coresq:  175 LSAT, 3.75 GPA"/>
+<set x="161" y="3.57" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/knight0518/jd" tooltext="knight0518 (URM):  161 LSAT, 3.57 GPA"/>
+<set x="177" y="3.36" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/secondgoround/jd" tooltext="secondgoround:  177 LSAT, 3.36 GPA"/>
+<set x="169" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ChocolateMicroscopes/jd" tooltext="ChocolateMicroscopes:  169 LSAT, 3.3 GPA"/>
+<set x="163" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/vraman/jd" tooltext="vraman:  163 LSAT, 3.62 GPA"/>
+<set x="165" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Frolovasaur/jd" tooltext="Frolovasaur:  165 LSAT, 3.84 GPA"/>
+<set x="167" y="3.49" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/whitd14/jd" tooltext="whitd14:  167 LSAT, 3.49 GPA"/>
+<set x="175" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/greenandgold/jd" tooltext="greenandgold:  175 LSAT, 3.55 GPA"/>
+<set x="161" y="3.43" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/prod10/jd" tooltext="prod10 (URM):  161 LSAT, 3.43 GPA"/>
+<set x="169" y="3.43" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/TSolomon311/jd" tooltext="TSolomon311:  169 LSAT, 3.43 GPA"/>
+<set x="168" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/rywill/jd" tooltext="rywill:  168 LSAT, 3.8 GPA"/>
+<set x="163" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Adika86/jd" tooltext="Adika86 (URM):  163 LSAT, 3.5 GPA"/>
+<set x="172" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/commoblue/jd" tooltext="commoblue:  172 LSAT, 3.5 GPA"/>
+<set x="164" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hanamorgan/jd" tooltext="hanamorgan:  164 LSAT, 3.75 GPA"/>
+<set x="169" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/mithriliel/jd" tooltext="mithriliel:  169 LSAT, 3.5 GPA"/>
+<set x="160" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/VEETEE/jd" tooltext="VEETEE:  160 LSAT, 3.79 GPA"/>
+<set x="169" y="3.67" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LCG21/jd" tooltext="LCG21 (URM):  169 LSAT, 3.67 GPA"/>
+<set x="169" y="3.86" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/theCharlieCondition/jd" tooltext="theCharlieCondition:  169 LSAT, 3.86 GPA"/>
+<set x="173" y="2.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/tryinrealhard/jd" tooltext="tryinrealhard:  173 LSAT, 2.8 GPA"/>
+<set x="167" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Darmody/jd" tooltext="Darmody:  167 LSAT, 3.6 GPA"/>
+<set x="166" y="2.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ajg012/jd" tooltext="ajg012:  166 LSAT, 2.75 GPA"/>
+<set x="163" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jhw219/jd" tooltext="jhw219:  163 LSAT, 3.75 GPA"/>
+<set x="170" y="3.48" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/ld1337/jd" tooltext="ld1337 (URM):  170 LSAT, 3.48 GPA"/>
+<set x="166" y="3.71" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jessica0607/jd" tooltext="jessica0607 (URM):  166 LSAT, 3.71 GPA"/>
+<set x="170" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/billywalsh/jd" tooltext="billywalsh:  170 LSAT, 3.76 GPA"/>
+<set x="170" y="3.79" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/piemaker/jd" tooltext="piemaker (URM):  170 LSAT, 3.79 GPA"/>
+<set x="162" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/DeloresSaidSo/jd" tooltext="DeloresSaidSo (URM):  162 LSAT, 3.5 GPA"/>
+<set x="166" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lawhopeful111/jd" tooltext="lawhopeful111:  166 LSAT, 4 GPA"/>
+<set x="163" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/AlwaysSunnyinTexas/jd" tooltext="AlwaysSunnyinTexas (URM):  163 LSAT, 3.55 GPA"/>
+<set x="162" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bne2103/jd" tooltext="bne2103:  162 LSAT, 3.91 GPA"/>
+<set x="170" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/clee33/jd" tooltext="clee33:  170 LSAT, 3.3 GPA"/>
+<set x="162" y="3.24" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/jozzy22/jd" tooltext="jozzy22 (URM):  162 LSAT, 3.24 GPA"/>
+<set x="166" y="3.96" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/PIlaw18/jd" tooltext="PIlaw18:  166 LSAT, 3.96 GPA"/>
+<set x="166" y="3.64" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hwsitgoing/jd" tooltext="hwsitgoing (URM):  166 LSAT, 3.64 GPA"/>
+<set x="172" y="3.76" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/LtSmith/jd" tooltext="LtSmith:  172 LSAT, 3.76 GPA"/>
+<set x="170" y="3.57" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/speakeasier/jd" tooltext="speakeasier:  170 LSAT, 3.57 GPA"/>
+<set x="176" y="3.2" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/OClarks/jd" tooltext="OClarks:  176 LSAT, 3.2 GPA"/>
+<set x="166" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/EvelynS/jd" tooltext="EvelynS:  166 LSAT, 4 GPA"/>
+<set x="168" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/theSpiceMustFlow/jd" tooltext="theSpiceMustFlow:  168 LSAT, 3.6 GPA"/>
+<set x="165" y="3.91" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sjwigh2/jd" tooltext="sjwigh2:  165 LSAT, 3.91 GPA"/>
+<set x="163" y="3.98" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bjwyr5/jd" tooltext="bjwyr5:  163 LSAT, 3.98 GPA"/>
+<set x="167" y="3.52" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/SaintHughs06/jd" tooltext="SaintHughs06:  167 LSAT, 3.52 GPA"/>
+<set x="165" y="3.9" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/smooch/jd" tooltext="smooch:  165 LSAT, 3.9 GPA"/>
+<set x="169" y="3.71" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sauvastika/jd" tooltext="sauvastika:  169 LSAT, 3.71 GPA"/>
+<set x="160" y="3.45" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Moriarty/jd" tooltext="Moriarty (URM):  160 LSAT, 3.45 GPA"/>
+<set x="169" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/RoseMVP/jd" tooltext="RoseMVP:  169 LSAT, 3.3 GPA"/>
+<set x="165" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/PJ10/jd" tooltext="PJ10:  165 LSAT, 3.84 GPA"/>
+<set x="175" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cg23/jd" tooltext="cg23:  175 LSAT, 3.6 GPA"/>
+<set x="176" y="3.62" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/chapmaco/jd" tooltext="chapmaco:  176 LSAT, 3.62 GPA"/>
+<set x="173" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/eas22/jd" tooltext="eas22:  173 LSAT, 4 GPA"/>
+<set x="169" y="3.35" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/justitiasuperomnia/jd" tooltext="justitiasuperomnia:  169 LSAT, 3.35 GPA"/>
+<set x="170" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/unlicensedpotato/jd" tooltext="unlicensedpotato:  170 LSAT, 3.5 GPA"/>
+<set x="169" y="3.69" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bph87/jd" tooltext="bph87:  169 LSAT, 3.69 GPA"/>
+<set x="171" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/cherrybomb/jd" tooltext="cherrybomb:  171 LSAT, 3.8 GPA"/>
+<set x="169" y="3.65" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/L00T/jd" tooltext="L00T:  169 LSAT, 3.65 GPA"/>
+<set x="165" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/MacandCheese89/jd" tooltext="MacandCheese89:  165 LSAT, 3.8 GPA"/>
+<set x="169" y="3.47" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/bellablue/jd" tooltext="bellablue:  169 LSAT, 3.47 GPA"/>
+<set x="169" y="3.42" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sdpalmtree/jd" tooltext="sdpalmtree:  169 LSAT, 3.42 GPA"/>
+<set x="173" y="3.18" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/zsinemus/jd" tooltext="zsinemus:  173 LSAT, 3.18 GPA"/>
+<set x="169" y="3.64" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/BigManChina/jd" tooltext="BigManChina:  169 LSAT, 3.64 GPA"/>
+<set x="169" y="3.46" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/sayitoutloud/jd" tooltext="sayitoutloud:  169 LSAT, 3.46 GPA"/>
+<set x="164" y="3.84" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/nomeacuerdo/jd" tooltext="nomeacuerdo:  164 LSAT, 3.84 GPA"/>
+<set x="167" y="3.55" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/penguin26/jd" tooltext="penguin26:  167 LSAT, 3.55 GPA"/>
+<set x="175" y="4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/equality72521/jd" tooltext="equality72521:  175 LSAT, 4 GPA"/>
+<set x="166" y="4.03" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/rolltide12/jd" tooltext="rolltide12:  166 LSAT, 4.03 GPA"/>
+<set x="177" y="3.17" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Genthree/jd" tooltext="Genthree:  177 LSAT, 3.17 GPA"/>
+<set x="167" y="3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/aaria11/jd" tooltext="aaria11 (URM):  167 LSAT, 3 GPA"/>
+<set x="170" y="3.51" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hanman/jd" tooltext="hanman:  170 LSAT, 3.51 GPA"/>
+<set x="155" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/chiefrfr/jd" tooltext="chiefrfr (URM):  155 LSAT, 3.5 GPA"/>
+<set x="175" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/rebeccalily/jd" tooltext="rebeccalily:  175 LSAT, 3.7 GPA"/>
+<set x="169" y="3.31" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Cartman8779/jd" tooltext="Cartman8779:  169 LSAT, 3.31 GPA"/>
+<set x="160" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/TheIdealist/jd" tooltext="TheIdealist (URM):  160 LSAT, 3.87 GPA"/>
+<set x="168" y="3.6" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/greenglasswindows/jd" tooltext="greenglasswindows:  168 LSAT, 3.6 GPA"/>
+<set x="162" y="3.42" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/quan292/jd" tooltext="quan292 (URM):  162 LSAT, 3.42 GPA"/>
+<set x="167" y="3.78" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/paulsimonsayswhat/jd" tooltext="paulsimonsayswhat:  167 LSAT, 3.78 GPA"/>
+<set x="170" y="3.5" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Splitter2012/jd" tooltext="Splitter2012:  170 LSAT, 3.5 GPA"/>
+<set x="167" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/hal20/jd" tooltext="hal20:  167 LSAT, 3.7 GPA"/>
+<set x="173" y="4.08" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/Mouseketeer/jd" tooltext="Mouseketeer:  173 LSAT, 4.08 GPA"/>
+<set x="171" y="3.3" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/lawShopeful/jd" tooltext="lawShopeful:  171 LSAT, 3.3 GPA"/>
+<set x="173" y="3.87" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/beeveekay/jd" tooltext="beeveekay (URM):  173 LSAT, 3.87 GPA"/>
+<set x="170" y="3.75" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/thesmark/jd" tooltext="thesmark:  170 LSAT, 3.75 GPA"/>
+<set x="175" y="3.4" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/westinghouse60/jd" tooltext="westinghouse60:  175 LSAT, 3.4 GPA"/>
+<set x="175" y="3.8" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/doubleve/jd" tooltext="doubleve:  175 LSAT, 3.8 GPA"/>
+<set x="173" y="3.61" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/chickenhunter111/jd" tooltext="chickenhunter111:  173 LSAT, 3.61 GPA"/>
+<set x="171" y="3.7" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/welkertexasranger/jd" tooltext="welkertexasranger:  171 LSAT, 3.7 GPA"/>
+<set x="170" y="3.06" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/whodat/jd" tooltext="whodat (URM):  170 LSAT, 3.06 GPA"/>
+<set x="167" y="3.52" link="P-detailsPopUp,toolbar=yes,scrollbars=yes,menubar=yes,directories=yes,status=yes,resizable=yes-http://lawschoolnumbers.com/puddles13/jd" tooltext="puddles13:  167 LSAT, 3.52 GPA"/></dataSet>
+
+<vTrendLines>
+<line startValue="0" endValue="3" displayValue="Short Term" isTrendZone="1" color="FF0000" alpha="5"/>
+<line startValue="3" endValue="6" displayValue="Mid Term" isTrendZone="1" color="5B5B00" alpha="5"/>
+<line startValue="6" endValue="10" displayValue="Long Term" isTrendZone="1" color="009900" alpha="5"/>
+</vTrendLines>
+
+<styles>
+
+<definition>
+<style name="myCaptionFont" type="font" font="Arial" size="14" bold="1" underline="1"/>
+</definition>
+<application>
+<apply toObject="Caption" styles="myCaptionFont"/>
+</application>
+</styles>
+</chart>

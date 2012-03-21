@@ -1,0 +1,8 @@
+<chart caption='Browser market shares at a specific website, 2010  - (Fusion Chart)' showPercentValues='1'>
+    <set label='Firefox' value='45.0' />
+    <set label='IE' value='26.8' />
+    <set label='Chrome' value='12.8' />
+    <set label='Safari' value='8.5' />
+    <set label='Opera' value='6.2' />
+    <set label='Others' value='0.7' />
+</chart>

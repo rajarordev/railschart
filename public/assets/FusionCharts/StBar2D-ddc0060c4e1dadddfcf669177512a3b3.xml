@@ -1,0 +1,19 @@
+<graph  bgColor="E9E9E9" outCnvBaseFontColor="666666"  caption="Stack Column Chart - (Fusion Chart)"  xAxisName="" yAxisName=""  numberPrefix=""  showValues="0"  numDivLines="3"  showAlternateVGridColor="1"  AlternateVGridColor="e1f5ff"   divLineColor="e1f5ff"  baseFontColor="666666"  hoverCapBgColor="F3F3F3"   hoverCapBorderColor="666666"   canvasBorderColor="666666"   canvasBorderThickness="1"   limitsDecimalPrecision='0'    divLineDecimalPrecision='0' decimalPrecision="0">
+
+<categories>
+	   <category name=""/>
+</categories>
+
+<dataset seriesName="Unmployed" color="B1D1DC"> 
+       <set value="20"/>
+</dataset>
+
+<dataset seriesName="Additional Degrees" color="C8A1D1"> 
+	 <set value="30"/>
+</dataset>
+
+<dataset seriesName="Employed" color="8BBA00"> 
+	 <set value="50"/>
+</dataset>
+
+</graph>

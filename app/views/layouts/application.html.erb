@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Demochart</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <div id="banner">
+  		<%#= image_tag("logo.png") %>
+        <h5>Salzer - Demo Charts with RoR</h5>
+  </div>
+  <div id="columns">
+    <div id="side">
+      <h4>High Chart Samples</h4>
+      <ul>	
+	  <li><%= link_to "Pie Chart", pie_chart_path, :remote => true%></li>
+      <li><%= link_to "Scatter Plot Chart", scatter_chart_path, :remote => true%></li>
+      <li><%= link_to "Stacked Column Chart", stacked_chart_path, :remote => true%></li>
+      </ul>
+
+      <h4>Fusion Chart Samples</h4>
+      <ul>	
+	  <li><%= link_to "Pie Chart", fpie_chart_path, :remote => true%></li>
+      <li><%= link_to "Scatter Plot Chart", fscatter_chart_path, :remote => true%></li>
+      <li><%= link_to "Stacked Column Chart", fstacked_chart_path, :remote => true%></li>
+      </ul>
+
+    </div>
+
+    <div id="main">
+     <%= yield :head%>	
+    </div>
+    <div id="main">
+     <%= @page_title %> 
+     <div id="chart_area">
+      <%#= yield %><!-- <label id="code.depot.e.include"/> -->
+    </div>
+    </div>
+    <div style="clear:both"></div>
+  </div>
+  <div class="footer">
+  	<p>Copyright &#XA9; 2012  Salzer Technologies Pvt. Ltd.  </p>
+  </div>  
+</body>
+</html>

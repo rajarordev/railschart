@@ -1,0 +1,49 @@
+<div id="perccontainer" style="width: 800px; height: 400px; margin: 0 auto"></div>		
+		
+		<script type="text/javascript">
+var chart;
+$(document).ready(function() {
+	chart = new Highcharts.Chart({
+		chart: {
+			renderTo: 'perccontainer',
+			defaultSeriesType: 'bar'
+		},
+		title: {
+			text: 'Stacked column chart - (High Chart)'
+		},
+		xAxis: {
+		categories: ['']
+		},
+
+		yAxis: {
+			min: 0,
+			title: {
+				text: ''
+			}
+		},
+		tooltip: {
+			formatter: function() {
+				return ''+
+					this.series.name +': '+ this.y +' ('+ Math.round(this.percentage) +'%)';
+			}
+		},
+		plotOptions: {
+			series: {
+				stacking: 'percent'
+			}
+		},
+			series: [{
+			name: 'Employed',
+			data: [5]
+		}, {
+			name: 'Additional Degrees',
+			data: [2]
+		}, {
+			name: 'Unemployed',
+			data: [3]
+		}]
+	});
+});
+
+		</script>	
+

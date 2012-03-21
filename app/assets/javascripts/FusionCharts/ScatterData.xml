@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<chart palette="0" caption="Georgetown University: 2011 - 12 Admissions Outcomes - (Fusion Chart)" subcaption="" yAxisName="LSDAS GPA" xAxisName="LSAT" showLegend="1" showNames="1" xAxisMaxValue="180" xAxisMinValue="140" adjustDiv="0" yAxisValueDecimals="1" decimals="1" forcedecimals="1" yAxisMaxValue="4.4" yAxisMinValue="2.0" numDivLines="22">
+<chart palette="0" caption="Test Data - (Fusion Chart)" subcaption="" yAxisName="Y-data" xAxisName="X-data" showLegend="1" showNames="1" xAxisMaxValue="180" xAxisMinValue="140" adjustDiv="0" yAxisValueDecimals="1" decimals="1" forcedecimals="1" yAxisMaxValue="4.4" yAxisMinValue="2.0" numDivLines="22">
 
 <categories verticalLineThickness="1">
 	<category name="140" x="140" showVerticalLine="1"/>
